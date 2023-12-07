@@ -1,6 +1,6 @@
 # Laptop Battery Notifier
 
-![Battery Notifier Logo](link/to/logo.png)
+![Battery Notifier Logo](Battery_Notifier_Logo.png)
 
 ## Overview
 
